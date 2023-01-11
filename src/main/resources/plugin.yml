@@ -1,0 +1,8 @@
+name: SnowWars
+version: '${project.version}'
+main: massajp.snowwars.SnowWars
+api-version: 1.18
+
+commands:
+  snow:
+    description: snow wars main command
